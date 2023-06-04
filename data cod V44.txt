@@ -39,37 +39,37 @@
 },
 
   "my_data":[
-    {"title":"title1 ser",
-      "desc":"description1 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 1",
+      "desc":"Skibidi Toilet Mod Melon 1",
+      "photo":"https://iili.io/H4KOiLF.jpg"},
 
-    {"title":"title2 ser",
-      "desc":"description2 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 2",
+      "desc":"Skibidi Toilet Mod Melon 2",
+      "photo":"https://iili.io/H4KOiLF.jpg"},
 
-    {"title":"title3 ser",
-      "desc":"description3 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 3",
+      "desc":"Skibidi Toilet Mod Melon 3",
+      "photo":"https://iili.io/H4KOPX1.jpg"},
 
-    {"title":"title4 ser",
-      "desc":"description4 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 4",
+      "desc":"Skibidi Toilet Mod Melon 4",
+      "photo":"https://iili.io/H4KO6zP.jpg"},
 
-    {"title":"title5 ser",
-      "desc":"description5 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 5",
+      "desc":"Skibidi Toilet Mod Melon 5",
+      "photo":"https://iili.io/H4KOLqg.jpg"},
 
-    {"title":"title6 ser",
-      "desc":"description6 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 6",
+      "desc":"Skibidi Toilet Mod Melon 6",
+      "photo":"https://iili.io/H4KOZrJ.jpg"},
 
-    {"title":"title7 ser",
-      "desc":"description7 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+    {"title":"Mod Pack 7",
+      "desc":"Skibidi Toilet Mod Melon 7",
+      "photo":"https://iili.io/H4KOQ1a.jpg"},
 
-    {"title":"title8 ser",
-      "desc":"description8 ser",
-      "photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+    {"title":"Mod Pack 8",
+      "desc":"Skibidi Toilet Mod Melon 8",
+      "photo":"https://iili.io/H4KO6zP.jpg"}
   ]
 
 }
